@@ -1,7 +1,7 @@
-# Sidworks - Photography Portfolio Website
+ Photography Portfolio Website
 
 A photography portfolio website for a photographer
-Preview: http://sidworks.tk/
+
 
 
 
@@ -17,4 +17,3 @@ This project uses:
 ### Installation
 Just clone and run from your browser
 
-# Display
